@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# fraud_detection
-=======
 # 🕵️‍♂️ Fraud Detection
 
 This project implements a machine learning system to detect fraudulent financial transactions using logistic regression and exploratory data analysis (EDA).
@@ -61,4 +58,4 @@ streamlit run app/fraud_app.py
 
 ## 📄 License
 MIT License
->>>>>>> 8a3e7cd (Initial commit)
+
