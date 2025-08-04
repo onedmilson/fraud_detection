@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# Output files
+*.pkl
+*.csv
+*.log
+
+# Streamlit and app temporary files
+uploads/
+temp/
+*.db
+
+# Model files
+*.pt
+
+# VSCode and IDE settings
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
